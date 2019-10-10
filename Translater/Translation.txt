@@ -1,0 +1,3 @@
+hello hola bonjour
+goodbye adiós au_revoir
+please por_favor s'il_vous_plaît
